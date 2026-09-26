@@ -33,7 +33,7 @@ struct LicenseGateView: View {
                     }
 
                     VStack(spacing: 8) {
-                        Text("Baijstore")
+                        Text("TREM BALA")
                             .font(.system(size: 42, weight: .bold))
                             .foregroundStyle(.primary)
 
